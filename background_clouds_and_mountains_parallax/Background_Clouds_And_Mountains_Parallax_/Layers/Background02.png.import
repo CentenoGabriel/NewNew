@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Background02.png-1a9690979cb95b9de2da766631b1afc9.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://background_clouds_and_mountains_parallax/Background_Clouds_And_Mountains_Parallax_/Layers/Background02.png"
+dest_files=[ "res://.import/Background02.png-1a9690979cb95b9de2da766631b1afc9.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
